@@ -1,0 +1,32 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# .NET / C#
+**/bin/
+**/obj/
+*.suo
+*.user
+
+# Node.js / Next.js
+node_modules/
+front-end/.next/
+front-end/out/
+
+# Docker
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
