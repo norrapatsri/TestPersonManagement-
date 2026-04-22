@@ -1,3 +1,4 @@
+using PersonApi.Exceptions;
 using PersonApi.Models;
 using PersonApi.Repositories;
 
